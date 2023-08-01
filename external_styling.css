@@ -11,3 +11,73 @@
 	background-color: khaki;
 
 }
+p{
+	ont-size: 40px;
+	font-family: cursive;
+	color: beige;
+	background-color: cadetblue;
+}
+.a
+{
+	height: 100px;
+	width: 150px;
+	background-color: pink;
+}
+div.b
+{
+	height: 100px;
+	width: 150px;
+	background-color: yellow;
+}
+input[type]
+{
+	color: green;
+}
+input[type="email"]
+{
+	color: darkblue;
+}
+input[type="password"]
+{
+	color: mediumpurple;
+}
+
+a[href]{
+	background-color: crimson;
+	
+}
+img[src]
+{
+	height: 100px;
+	width: 100px;
+	border: 10px solid black;
+
+}
+
+*{
+	font-family: monospace;
+	font-size: 20px;
+	background-color: cornsilk;
+}
+a:hover
+{
+	color:blueviolet;
+	font-family: cursive;
+	font-size: 50px;
+}
+a:active{
+	color:yellow;
+}
+a:visited{
+	color: blueviolet;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: indigo;
+}
+div:hover{
+	height: 300px;
+	width: 300px;
+	background-color: green;
+}
