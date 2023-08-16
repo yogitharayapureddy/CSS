@@ -1,0 +1,35 @@
+.button1{
+	background-color: greenyellow;
+	color: white;
+	font-size: 20px;
+	margin-top: 15px;
+	padding: 5px 20px;
+}
+.button2{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+}
+.button3{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+}
+.button4{
+	background-color: lightblue;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+}
+select{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding: 5px 20px;
+	border: 2px solid black;
+}
+.abc{
+	background-color: lightgrey;
+}
